@@ -63,7 +63,7 @@ const style = css`
     ha-labeled-slider { --paper-slider-input: {width: 100%} }
 
     .light-entity-card-color_temp {
-        background-image: var(--ha-slider-background);
+        background-image: -webkit-linear-gradient( right, rgb(255, 160, 0) 0%, white 50%, rgb(166, 209, 255) 100% );
     }
 
     .group .light-entity-card-effectlist {
