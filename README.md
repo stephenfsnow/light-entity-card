@@ -1,7 +1,7 @@
 # Light Entity Card
 Control any light/switch entity through lovelace
 
-<img src='https://raw.githubusercontent.com/ljmerza/light-entity-card/master/card.png' />
+<img src='https://raw.githubusercontent.com/stephenfsnow/light-entity-card/master/card.png' />
 
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]](LICENSE.md)
